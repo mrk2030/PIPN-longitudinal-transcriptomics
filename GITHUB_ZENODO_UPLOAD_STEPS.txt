@@ -1,0 +1,24 @@
+GITHUB + ZENODO RELEASE STEPS
+
+1. Create a new PUBLIC GitHub repository named:
+   PIPN-longitudinal-transcriptomics
+
+2. Upload the CONTENTS of this folder to the repository root.
+
+3. Before publishing the first release, edit CITATION.cff and replace:
+   https://github.com/USERNAME/PIPN-longitudinal-transcriptomics
+   with your real GitHub repository URL.
+
+4. Check that README.md displays correctly on GitHub.
+
+5. Create a GitHub release:
+   Tag: v1.0.0
+   Title: Version 1.0 - manuscript submission
+
+6. Sign in to Zenodo and connect your GitHub account.
+
+7. Enable archiving for this repository and create/sync the v1.0.0 release.
+
+8. Zenodo will assign a DOI. Add that DOI to README.md and to the manuscript Data Availability statement.
+
+9. If you edit code after submission, make a new release (for example v1.0.1) rather than overwriting v1.0.0.

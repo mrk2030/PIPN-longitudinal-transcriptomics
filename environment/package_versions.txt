@@ -1,0 +1,14 @@
+R 4.6.1
+RStudio 2026.09.0 (Windows)
+DESeq2 1.52.0
+fgsea 1.38.0
+msigdbr 26.1.1
+GEOquery 2.80.0
+limma 3.68.5
+clusterProfiler 4.20.0
+org.Mm.eg.db 3.23.0
+oligo 1.76.0
+ggplot2 4.0.3
+ggrepel 0.9.8
+
+Additional packages used by scripts include pheatmap, enrichplot, dplyr, and readxl.

@@ -1,0 +1,10 @@
+"metric","value"
+"Spearman_NES_correlation",0.3662424969988
+"Pearson_NES_correlation",0.307872170136002
+"Same_direction_pathways",31
+"Opposite_direction_pathways",19
+"Significant_GSE113941",8
+"Significant_GSE185084_day11",24
+"Significant_in_both",5
+"Significant_same_direction",3
+"Significant_opposite_direction",2

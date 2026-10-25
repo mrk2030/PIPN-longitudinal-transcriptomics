@@ -72,9 +72,13 @@ Key packages include DESeq2, fgsea, msigdbr, GEOquery, limma, clusterProfiler, o
 
 ## Important note on the GSE185084 sample manifest
 
-The GEO metadata required manual curation to resolve sample labels and construct the final analysis manifest. The repository includes a manifest template but does not invent or reconstruct metadata that were not embedded directly in the archived scripts. The final manuscript-supporting outputs are included in `results/` for verification.
+The GSE185084 sample metadata required manual curation to establish the correct biological sample identities, treatment assignments, and collection days.
 
-For exact reproduction from raw data, users should curate the DRG manifest from the GEO metadata using the same treatment and collection-day assignments reported in the manuscript before running Scripts 05 onward.
+During curation, a discrepancy was identified involving GEO records GSM5605928/SRR16201035 and GSM5605929/SRR16201034. Correspondence with the original dataset investigator confirmed that these records referred to the same biological sample/library (201926356-01), assigned to the paclitaxel day-4 group. The curated sample manifest was constructed to preserve the verified treatment assignment and avoid duplicate biological counting.
+
+The primary analysis comprised 32 independent DRG samples, with four biological samples per treatment group at each of four collection days (4, 7, 11, and 23). DRG09 was retained in the primary analysis, and its influence was evaluated separately through a 31-sample exclusion sensitivity analysis.
+
+The current public repository contains a sample-manifest template. The finalized curated manifest has been verified within the updated V1.1.0 reproducibility package, which remains in pre-release staging. Until that package is publicly released, users seeking to reconstruct the primary analysis from the current GitHub repository must independently curate and verify the sample assignments against the source dataset and its documented provenance.
 
 ## Principal analysis definitions
 

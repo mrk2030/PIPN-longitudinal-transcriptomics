@@ -8,7 +8,11 @@ Analysis code and selected reproducibility materials associated with the manuscr
 
 This repository contains the R scripts used to reanalyze public dorsal root ganglion (DRG) transcriptomic datasets in paclitaxel-induced peripheral neuropathy (PIPN). The study examines treatment-associated transcriptional responses across behaviorally defined stages of neuropathy development and recovery, classifies longitudinal gene trajectories, evaluates Hallmark pathway dynamics, and assesses selective pathway-level reproducibility in an independent DRG dataset.
 
-The repository is intended as a transparent archive of the analysis code supporting the manuscript. Large primary expression files are not redistributed because they are already available from NCBI GEO.
+## Release scope and reproducibility status
+
+The current public GitHub repository contains the initial R analysis workflow and selected manuscript-supporting results. Additional analyses supporting the revised manuscript, including the targeted day-23-versus-day-11 treatment interaction, DRG09 sample-exclusion sensitivity analysis, Hallmark implementation-sensitivity assessment, and expanded GSE113941 reproducibility verification, have been numerically verified in a separate pre-release environment.
+
+The corresponding additional scripts, analytical outputs, and supporting documentation are being prepared for the updated Zenodo version 1.1.0 release. Until that release is finalized, the public GitHub repository should not be considered a complete reproduction package for every analysis reported in the revised manuscript.
 
 ## Public datasets
 

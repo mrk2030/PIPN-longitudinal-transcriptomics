@@ -2,7 +2,7 @@
 
 Analysis code and selected reproducibility materials associated with the manuscript:
 
-**Temporal Transcriptomic Dynamics Reveal Molecular Attenuation and Late Pathway Reversal in Paclitaxel-Induced Peripheral Neuropathy**
+**Temporal Transcriptomic Dynamics Reveal Molecular Attenuation and Directional Pathway Reorganization in Paclitaxel-Induced Peripheral Neuropathy**
 
 ## Overview
 

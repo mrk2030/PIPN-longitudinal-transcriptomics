@@ -106,11 +106,11 @@ Because the work was developed interactively during exploratory analysis, this p
 
 ## Citation
 
-A DOI will be added here after the GitHub release is archived in Zenodo.
+The previously archived analysis code is referenced as:
 
-Suggested repository citation before DOI assignment:
+Khan, M. R., & Alhosaini, K. A. (2026). PIPN longitudinal transcriptomics analysis code (Version 1.0.1) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23390467
 
-Khan, M.R., Alhosaini, K.A. (2026). *PIPN longitudinal transcriptomics analysis code*, version 1.0.0.
+An updated reproducibility package (version 1.1.0) is being finalized. Its release information and citation will be added after the public Zenodo record is verified.
 
 ## Contact
 

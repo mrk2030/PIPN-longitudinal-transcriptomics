@@ -1,5 +1,6 @@
+
 cff-version: 1.2.0
-message: "If you use this code, please cite the associated manuscript and archived software release."
+message: "If you use this code, please cite the associated manuscript and the applicable archived software release."
 title: "PIPN longitudinal transcriptomics analysis code"
 type: software
 authors:
@@ -7,6 +8,5 @@ authors:
     given-names: Mohammad Rashid
   - family-names: Alhosaini
     given-names: Khaled A.
-year: 2026
-version: 1.0.0
-repository-code: "https://github.com/USERNAME/PIPN-longitudinal-transcriptomics"
+repository-code: "https://github.com/mrk2030/PIPN-longitudinal-transcriptomics"
+

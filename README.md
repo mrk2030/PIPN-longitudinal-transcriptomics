@@ -104,7 +104,7 @@ The scripts and included result tables support the following manuscript-level fi
 
 Primary transcriptomic data are publicly available through NCBI GEO under accession numbers GSE185084, GSE113941, and GSE249643.
 
-Selected processed outputs that support the manuscript are included in this repository. The supplementary tables supplied with the manuscript are included under `supplementary/`.
+Selected processed outputs that support the manuscript are included in this repository. The current public repository includes the supplementary workbook containing Tables S1–S16. Supplementary Tables S17 and S18, which document the targeted treatment-interaction and Hallmark implementation-sensitivity analyses, respectively, are included in the verified V1.1.0 staging package and will be made available upon its public release.
 
 ## Reproducibility notes
 
